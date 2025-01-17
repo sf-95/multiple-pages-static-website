@@ -1,13 +1,30 @@
 body {
-  background: blueviolet;
+  background: #f8e8a6;
+  text-align: center;
 }
 
 h1 {
-  text-align: center;
-  color: white;
+  color: black;
+}
+
+.photo-title {
+  margin-bottom: 30px;
+}
+
+.croissant {
+  justify-content: center;
+  max-width: 100%;
+  border-radius: 10px;
+  margin-bottom: 26px;
+}
+
+.contact-email {
+  color: blue;
+  margin: 0 auto;
 }
 
 a {
-  color: white;
-  text-align: center;
+  color: green;
+  justify-content: space-between;
+  margin: 10px;
 }
